@@ -1,21 +1,9 @@
 {
+  "commitish" : "0.6",
   "iOS" : [
     {
-      "hash" : "7c4f3d8885422c0005481354a76354687151e14642e93274c215557679cff01c",
+      "hash" : "39d611450d7452a9970554ccba75b963bfd123b091d7ffb1cd0b547b57b41206",
       "name" : "SwiftCharts"
     }
-  ],
-  "commitish" : "0.6",
-  "watchOS" : [
-
-  ],
-  "tvOS" : [
-    {
-      "hash" : "d7f87a1ee73907bd59d57b51e9c0421306c711bfc84ae92e5bf85f8a22822af0",
-      "name" : "SwiftCharts"
-    }
-  ],
-  "Mac" : [
-
   ]
 }
