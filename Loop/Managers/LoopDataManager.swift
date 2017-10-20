@@ -67,6 +67,7 @@ final class LoopDataManager {
             carbRatioSchedule: carbRatioSchedule,
             insulinSensitivitySchedule: insulinSensitivitySchedule
         )
+		carbStore.delay = 19.5
 
         doseStore = DoseStore(
             healthStore: healthStore,
