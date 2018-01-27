@@ -44,7 +44,7 @@ extension ExponentialInsulinModelPreset {
 	}
 
     var model: InsulinModel {
-        return DelayedExponentialInsulinModel(actionDuration: actionDuration, peakActivityTime: peakActivity, delay: delay)
+        return ExponentialInsulinModel(actionDuration: actionDuration, peakActivityTime: peakActivity)
     }
 }
 
